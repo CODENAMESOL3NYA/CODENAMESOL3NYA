@@ -2,7 +2,6 @@
 
 # Hi there, I'm CODENAMESOL3NYA 👋
 
-<a href="[Your-LinkedIn-URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ---
 
 I'm a results-driven Fullstack Developer with a passion for system design, backend architecture, and creating seamless user experiences. I thrive in Agile environments and am committed to writing clean, secure, and scalable code.
